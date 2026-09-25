@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "/bin/sh",
+      "runtimeArgs": [
+        "/Users/jeanle/Figma/.node-runtime/run-dev.sh"
+      ],
+      "port": 5173
+    }
+  ]
+}
